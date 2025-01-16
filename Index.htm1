@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Loja de Produtos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+        .product {
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 15px;
+            width: 250px;
+            text-align: center;
+            border-radius: 8px;
+        }
+        .product img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .product a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        .product a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Minha Loja de Produtos</h1>
+    </header>
+    <div class="container">
+        <!-- Produto 1 -->
+        <div class="product">
+            <img src="link-da-imagem-do-produto1.jpg" alt="Produto 1">
+            <h3>Nome do Produto 1</h3>
+            <p>Descrição breve do produto.</p>
+            <a href="https://link-do-produto1" target="_blank">Comprar agora</a>
+        </div>
+        <!-- Produto 2 -->
+        <div class="product">
+            <img src="link-da-imagem-do-produto2.jpg" alt="Produto 2">
+            <h3>Nome do Produto 2</h3>
+            <p>Descrição breve do produto.</p>
+            <a href="https://link-do-produto2" target="_blank">Comprar agora</a>
+        </div>
+        <!-- Adicione mais produtos aqui -->
+    </div>
+</body>
+  </html>
