@@ -1,6 +1,4 @@
-# Minha Loja de Produtos
 
-Bem-vindo à **Minha Loja de Produtos**! Aqui você pode encontrar o **Teclado Gamer** para conectar ao seu celular e otimizar sua experiência de uso.
 
 ## Produtos Disponíveis
 
