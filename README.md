@@ -1,7 +1,7 @@
 ## Produtos Disponíveis  
 
-- **Teclado Gamer**  
-  [Link para o Produto Teclado](https://s.shopee.com.br/1VjbAFJQ7S)  
+- **Escova Secadora**  
+  [Link para o Produto Teclado](https://s.shopee.com.br/4L6Ko0FF6I)  
 
 - **Mouse Gamer RGB – 16000 DPI**  
   [Link para o Produto Mouse](https://s.shopee.com.br/AKL1Gn9Zax)  
