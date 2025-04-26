@@ -8,21 +8,23 @@
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #f9f9f9, #e0e0e0);
+      background: linear-gradient(135deg, #111, #222);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
+      color: white;
     }
 
     header {
-      background-color: #ff4d00;
-      color: white;
+      background-color: #000;
+      color: #ff4d00;
       width: 100%;
       padding: 20px;
       text-align: center;
       font-size: 2rem;
       font-weight: bold;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
     }
 
     main {
@@ -35,17 +37,23 @@
     }
 
     .card {
-      background-color: #fff;
+      background-color: #1c1c1c;
       border-radius: 10px;
       padding: 20px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
       text-align: center;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 20px rgba(255, 77, 0, 0.4);
     }
 
     .card h2 {
       margin-bottom: 15px;
       font-size: 1.5rem;
-      color: #333;
+      color: #ff4d00;
     }
 
     .botao {
@@ -66,8 +74,8 @@
     footer {
       margin-top: auto;
       padding: 10px;
-      background-color: #333;
-      color: #ccc;
+      background-color: #000;
+      color: #777;
       width: 100%;
       text-align: center;
       font-size: 0.9rem;
@@ -85,7 +93,7 @@
     </div>
 
     <div class="card">
-      <h2>Camisa Masculina Camelada</h2>
+      <h2>Camisa Masculina Canelada</h2>
       <a href="https://s.shopee.com.br/AA48zAs8Iz" class="botao" target="_blank">Comprar Agora</a>
     </div>
   </main>
