@@ -7,7 +7,6 @@
   [Link para Produto Mouse](https://s.shopee.com.br/AKL1Gn9Zax)
   
 - **camisa slim camelada**
-- 
   [link para produto camisa](https://s.shopee.com.br/AA48zAs8Iz)
   
 ## Como Comprar 
